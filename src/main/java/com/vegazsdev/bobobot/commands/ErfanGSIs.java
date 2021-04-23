@@ -368,8 +368,9 @@ public class ErfanGSIs extends Command {
                                     + "\n\n*Credits:*\n[Erfan Abdi](https://github.com/erfanoabdi)"
                                     + " | " + "[Nippon](https://github.com/nnippon)"
                                     + " | " + "[Vega](http://github.com/VegaBobo)"
-                                    + "\n\n" // Sone space here without content
-                                    + "*Join*:\n[Channel](https://t.me/yashgsi) | [Group](https://t.me/yashgsisupport)"
+                                    + "\n\n" // Some space here without content
+                                    + "*Join*:\n[Channel](https://t.me/minati_gsi) | [Group](https://t.me/minatigsi_Chat)"
+                                    + "#MinatiGSI"
                                     , Long.parseLong(sfsetup.getSfConf("bot-announcement-id")));
                         } catch (Exception e) {
                             LOGGER.error("bot-announcement-id looks wrong or not set");
